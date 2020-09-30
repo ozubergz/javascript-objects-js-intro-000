@@ -1,3 +1,3 @@
 var playlist = { "Future": "Mask off" }
 
-function updatePlaylist()
+function updatePlaylist(obj, )
