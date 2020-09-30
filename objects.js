@@ -1,1 +1,1 @@
-var playlist = {  }
+var playlist = { "Future": "Mask off" }
